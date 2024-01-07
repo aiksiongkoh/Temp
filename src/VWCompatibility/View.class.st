@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'controller'
 	],
-	#category : #'Interface-Framework'
+	#category : #VWCompatibility
 }
 
 { #category : #'VisualWorks metadata' }
