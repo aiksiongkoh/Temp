@@ -128,7 +128,7 @@ CommonDirectorySelectionDialog class >> getSystemVolumeNames [
 ]
 
 { #category : #'class initialization' }
-CommonDirectorySelectionDialog class >> initialize [
+CommonDirectorySelectionDialog class >> initializeX [
 	"CommonDirectorySelectionDialog initialize"
 
 	self currentVolume: nil.

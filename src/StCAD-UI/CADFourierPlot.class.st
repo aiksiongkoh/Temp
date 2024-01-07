@@ -21,7 +21,7 @@ CADFourierPlot class >> initYLabels [
 ]
 
 { #category : #'class initialization' }
-CADFourierPlot class >> initialize [
+CADFourierPlot class >> initializeX [
 	self initYLabels
 ]
 

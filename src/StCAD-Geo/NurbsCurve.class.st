@@ -696,7 +696,7 @@ NurbsCurve class >> fromcDataPoint: cDataPoint uDegree: uDegree [
 ]
 
 { #category : #'class initialization' }
-NurbsCurve class >> initialize [
+NurbsCurve class >> initializeX [
 	"self initialize."
 
 	| n aRow previousRow |

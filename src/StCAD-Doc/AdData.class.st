@@ -73,7 +73,7 @@ AdData class >> adxxxBy60For: companyString [
 ]
 
 { #category : #'class initialization' }
-AdData class >> initialize [
+AdData class >> initializeX [
 	"self initialize."
 	| sponsorDir |
 	AdxxxBy32s := OrderedCollection new.

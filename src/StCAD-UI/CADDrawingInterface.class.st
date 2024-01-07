@@ -88,7 +88,7 @@ CADDrawingInterface class >> eventsTriggered [
 ]
 
 { #category : #'class initialization' }
-CADDrawingInterface class >> initialize [
+CADDrawingInterface class >> initializeX [
 
 	"CADDrawingInterface initialize."
 

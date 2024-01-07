@@ -103,7 +103,7 @@ CommonMessageDialog class >> informationMask [
 ]
 
 { #category : #'class initialization' }
-CommonMessageDialog class >> initialize [
+CommonMessageDialog class >> initializeX [
 	"CommonMessageDialog initialize"
 	self buttonLabelList.
 	self buttonValueList.

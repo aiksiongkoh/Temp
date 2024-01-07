@@ -11,7 +11,7 @@ Class {
 }
 
 { #category : #'class initialization' }
-ASMTextParser class >> initialize [
+ASMTextParser class >> initializeX [
 
 	"StCAD.UI.ASMTextParser initialize."
 

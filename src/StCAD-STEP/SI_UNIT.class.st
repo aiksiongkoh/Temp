@@ -12,7 +12,7 @@ Class {
 }
 
 { #category : #'class initialization' }
-SI_UNIT class >> initialize [
+SI_UNIT class >> initializeX [
 	"SI_UNIT initialize."
 
 	CPrefix := IdentityDictionary new: 20.

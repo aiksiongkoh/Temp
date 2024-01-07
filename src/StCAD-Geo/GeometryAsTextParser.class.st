@@ -11,7 +11,7 @@ Class {
 }
 
 { #category : #'class initialization' }
-GeometryAsTextParser class >> initialize [
+GeometryAsTextParser class >> initializeX [
 	"StCAD.Geo.GeometryAsTextParser initialize."
 	| block |
 	NameToGEOdict := IdentityDictionary new.
