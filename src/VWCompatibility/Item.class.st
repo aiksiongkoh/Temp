@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'name'
 	],
-	#category : #'StCAD-UI-STEP'
+	#category : #VWCompatibility
 }
 
 { #category : #accessing }
