@@ -1,10 +1,10 @@
 Class {
 	#name : #ApplicationModel,
-	#superclass : #ApplicationModel,
+	#superclass : #Model,
 	#instVars : [
 		'adButton'
 	],
-	#category : #'StCAD-UI-App'
+	#category : #VWCompatibility
 }
 
 { #category : #documentation }
