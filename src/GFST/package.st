@@ -1,1 +1,1 @@
-Package { #name : #'GFST-Base' }
+Package { #name : #'GFST' }
