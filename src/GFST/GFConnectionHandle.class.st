@@ -8,7 +8,7 @@ Class {
 		'connectedAction',
 		'connectAction'
 	],
-	#category : #'GF/ST Base-GFST-GFHandles'
+	#category : #'GFST-Base-GFST-GFHandles'
 }
 
 { #category : #'VisualWorks metadata' }

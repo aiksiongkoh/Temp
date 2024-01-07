@@ -5,7 +5,7 @@ Class {
 		'doubleClickEvent',
 		'activateControlLoop'
 	],
-	#category : #'GF/ST Base-GFST-GFSupport-GFSupport80'
+	#category : #'GFST-Base-GFST-GFSupport-GFSupport80'
 }
 
 { #category : #'VisualWorks metadata' }

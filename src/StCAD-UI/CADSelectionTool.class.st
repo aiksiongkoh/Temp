@@ -12,7 +12,7 @@ Class {
 	#category : #'StCAD-UI-CAD'
 }
 
-{ #category : #'GF/ST' }
+{ #category : #'GFST' }
 CADSelectionTool class >> new [
 "Copyright (C) 1993-1995 Polymorphic Software, Inc.  All Rights Reserved"
 

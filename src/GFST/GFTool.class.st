@@ -7,7 +7,7 @@ Class {
 		'interface',
 		'name'
 	],
-	#category : #'GF/ST Base-GFST-GFTools'
+	#category : #'GFST-Base-GFST-GFTools'
 }
 
 { #category : #'VisualWorks metadata' }

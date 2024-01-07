@@ -10,7 +10,7 @@ Class {
 		'grid',
 		'useGrid'
 	],
-	#category : #'GF/ST Base-GFST-GFCoordinateSystem'
+	#category : #'GFST-Base-GFST-GFCoordinateSystem'
 }
 
 { #category : #'VisualWorks metadata' }

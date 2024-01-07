@@ -5,7 +5,7 @@ Class {
 		'scratch',
 		'pen'
 	],
-	#category : #'GF/ST Base-GFST-GFInterface-GFDisplay'
+	#category : #'GFST-Base-GFST-GFInterface-GFDisplay'
 }
 
 { #category : #'VisualWorks metadata' }

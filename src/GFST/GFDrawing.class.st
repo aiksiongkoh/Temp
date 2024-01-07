@@ -8,7 +8,7 @@ Class {
 		'displayGrid',
 		'gridColor'
 	],
-	#category : #'GF/ST Base-GFST'
+	#category : #'GFST-Base-GFST'
 }
 
 { #category : #'VisualWorks metadata' }

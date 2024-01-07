@@ -7,7 +7,7 @@ Class {
 		'pagePoint',
 		'pen'
 	],
-	#category : #'GF/ST Base-GFST-GFInterface-GFDisplay-GFDisplay80'
+	#category : #'GFST-Base-GFST-GFInterface-GFDisplay-GFDisplay80'
 }
 
 { #category : #'VisualWorks metadata' }

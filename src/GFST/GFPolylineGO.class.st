@@ -1,15 +1,18 @@
 Class {
-	#name : #GFLineGO,
+	#name : #GFPolylineGO,
 	#superclass : #GFDirectedPathGO,
 	#instVars : [
-		'start',
-		'stop'
+		'points',
+		'origin',
+		'extent',
+		'closed',
+		'fillColor'
 	],
-	#category : #'GF/ST Base-GFST'
+	#category : #'GFST-Base-GFST'
 }
 
 { #category : #'VisualWorks metadata' }
-GFLineGO class >> visualWorksMetadata [
+GFPolylineGO class >> visualWorksMetadata [
 
 	^ #(
 		'namespace' 'Polymorphic'

@@ -10,7 +10,7 @@ Class {
 		'hideHandles',
 		'memento'
 	],
-	#category : #'GF/ST Base-GFST-GFInterface'
+	#category : #'GFST-Base-GFST-GFInterface'
 }
 
 { #category : #'VisualWorks metadata' }

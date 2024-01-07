@@ -7,7 +7,7 @@ Class {
 	#classInstVars : [
 		'eventsTriggered'
 	],
-	#category : #'GF/ST Base-PsiEventHandling'
+	#category : #'GFST-Base-PsiEventHandling'
 }
 
 { #category : #'VisualWorks metadata' }
